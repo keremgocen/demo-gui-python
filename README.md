@@ -8,11 +8,14 @@ A simple and native GUI written in Python.
 
 >Tkinter (and, since Python 3.1, ttk) are included with all standard Python distributions.
 
-### run
-```> python main.py```
+### activate py3env virtualenv
+
+```source py3env/bin/activate```
+
+```python main.py```
 
 ### roadmap
 - [x] folder/file pickers
-- [ ] display folder content in tree view
-- [ ] render chosen item (from tree view) in image view 
-- [ ] add status bar
+- [x] display folder content in tree view
+- [x] render chosen item (from tree view) in image view 
+- [x] add status bar
