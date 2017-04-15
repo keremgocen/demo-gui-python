@@ -14,9 +14,9 @@ A simple and native GUI written in Python.
 
 ### activate py3env virtualenv
 
-```source py3env/bin/activate```
+```$ source py3env/bin/activate```
 
-```python main.py```
+```$ python main.py```
 
 ### roadmap
 - [x] folder/file pickers
